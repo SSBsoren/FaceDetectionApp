@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "821624120662",
+    "firebase_url": "https://barcodescannerml-40752.firebaseio.com",
+    "project_id": "barcodescannerml-40752",
+    "storage_bucket": "barcodescannerml-40752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821624120662:android:a002524be0925463",
+        "android_client_info": {
+          "package_name": "com.sagensoren.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821624120662-r4sc58mscddsm07f3gj3f90r8n5ga8o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sagensoren.facedetectionapp",
+            "certificate_hash": "ce08cec818273468e90d4017cdc9bcf875a0fdff"
+          }
+        },
+        {
+          "client_id": "821624120662-oo0du4bmmskvfn23m5pii80g7ob4mcrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZMh5ZVMnXnMkNUAZsPKvhukAwNW1eiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821624120662-oo0du4bmmskvfn23m5pii80g7ob4mcrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821624120662:android:10f0905496893f0c",
+        "android_client_info": {
+          "package_name": "com.soren.sagen.barcodescannerml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821624120662-up64b88qbrqhjckb457u9poq37u9d4fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soren.sagen.barcodescannerml",
+            "certificate_hash": "24e619b68bcffe5ad03e60d5f93a212ebaaad676"
+          }
+        },
+        {
+          "client_id": "821624120662-oo0du4bmmskvfn23m5pii80g7ob4mcrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZMh5ZVMnXnMkNUAZsPKvhukAwNW1eiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821624120662-oo0du4bmmskvfn23m5pii80g7ob4mcrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
